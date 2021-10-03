@@ -1,7 +1,7 @@
 ![Pokémon Guessing Game](readme/who_pokemon.jpg)
 
 
-# :8ball: Pokémon Guessing Game
+# :8ball: Pokémon name guessing game
 
 Welcome to the Pokemon guessing game!
 
